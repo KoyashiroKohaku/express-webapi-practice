@@ -1,0 +1,9 @@
+{
+  "name": "express-webapi-practice",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:KoyashiroKohaku/express-webapi-practice.git",
+  "author": "Koyashiro Kohaku <develop@koyashiro.net>",
+  "license": "MIT",
+  "private": true
+}
